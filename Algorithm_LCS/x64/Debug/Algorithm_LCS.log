@@ -1,4 +1,0 @@
-﻿  Algorithm_LCS.cpp
-C:\Users\USER\source\repos\Algorithm_Practice\Algorithm_LCS\Algorithm_LCS.cpp(26,23): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\USER\source\repos\Algorithm_Practice\Algorithm_LCS\Algorithm_LCS.cpp(27,23): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Algorithm_LCS.vcxproj -> C:\Users\USER\source\repos\Algorithm_Practice\Algorithm_LCS\x64\Debug\Algorithm_LCS.exe
